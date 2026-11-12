@@ -1,0 +1,54 @@
+/*
+  white: #FFFFFF
+  accent1: #C7513A
+  accent2: #12819F
+*/
+
+h1, h2, h3 {
+  color: #C7513A;
+}
+h1 {
+  text-align: center;
+
+}
+th, td {
+  border: #12819F solid 3px;
+  padding: 10px;
+
+}
+
+table {
+  border-collapse: collapse;
+}
+
+a {
+  color: #C7513A;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #12819F;
+}
+
+p.textContent {
+  background-color: #C7513A;
+  color: #FFFFFF;
+  width: auto;
+  padding: 10px;
+  border: #12819F inset 5px;
+  margin: 10px;
+}
+
+div {
+  background-color: #C7513A;
+  width: 646px;
+  padding: 15px;
+  border: #12819F ridge 4px;
+  margin: 8px
+
+}
+
+body {
+  padding: 15px;
+}
