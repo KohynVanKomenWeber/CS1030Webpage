@@ -1,0 +1,49 @@
+/*
+  background color: #21252B
+  white: #FFFFFF
+  text color: #D7DAE0
+*/
+
+h1, h2, h3 {
+  color: #9A64AD;
+}
+
+body {
+  background-color: #21252B;
+  color: #D7DAE0;
+  padding: 15px;
+  text-align: center;
+}
+
+ul{
+  display: inline-block;
+  list-style-position: inside;
+  text-align: center;
+  padding-left: 0;
+}
+
+
+th, td {
+  border: #FFFFFF solid 2px;
+  padding: 10px;
+}
+table {
+  margin: auto;
+  color: #D7DAE0;
+  border-collapse: collapse;
+}
+
+a {
+  color: #E0DDD7;
+
+}
+
+a:hover {
+  color: #8573AE;
+
+}
+
+img {
+  display: block;
+  margin: auto;
+}
